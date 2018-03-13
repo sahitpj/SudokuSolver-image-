@@ -14,3 +14,8 @@ the whole project has been done in python 2 and 3, and the libarries that have b
 2. Sklrean
 3. OpenCV 3
 4. i-Tinker
+
+
+The images used for this project come from http://www.drodd.com
+
+The dataset used for training the classifier comes from https://www.kaggle.com/c/digit-recognizer/data
